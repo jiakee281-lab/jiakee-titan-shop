@@ -15,16 +15,16 @@ const Footer: React.FC = () => {
               Discover fashion, electronics, home goods, and more.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+              <a href="https://facebook.com" className="text-gray-400 hover:text-primary-400 transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+              <a href="https://twitter.com" className="text-gray-400 hover:text-primary-400 transition-colors">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+              <a href="https://instagram.com" className="text-gray-400 hover:text-primary-400 transition-colors">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+              <a href="https://linkedin.com" className="text-gray-400 hover:text-primary-400 transition-colors">
                 <Linkedin size={20} />
               </a>
             </div>
